@@ -1,0 +1,55 @@
+[
+	//Spectator
+    //Not "Excluded from map editor" as it serves as placeholder for "Any Civ" starting locations
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+  {
+  "name": "Elim",
+		"leaderName": "Aurelia",
+		"adjective": ["Elimian"],
+		"startBias": ["Dirt"]
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ".",
+    "declaringWar": ".",
+		"attacked": ".","defeated": ".",
+		"introduction": ".",
+    "neutralHello": ".","hateHello": ".","tradeRequest": ".",
+
+		"outerColor": [90,176,124],
+		"innerColor": [255,255,210],
+		//"favoredReligion": "",
+		"uniqueName": "People of Mud Land",
+		"uniques": ["something"],
+		"cities": ["Mose","Geote","Elimia","Madoid","Yiew","Grimia","Leon","Orz"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+},
+  {
+  "name": "Uran",
+		"leaderName": "Aurelia",
+		"adjective": ["Elimian"],
+		"startBias": ["Dirt"]
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ".",
+    "declaringWar": ".",
+		"attacked": ".","defeated": ".",
+		"introduction": ".",
+    "neutralHello": ".","hateHello": ".","tradeRequest": ".",
+
+		"outerColor": [90,176,124],
+		"innerColor": [255,255,210],
+		//"favoredReligion": "",
+		"uniqueName": "Gears of Eternity",
+		"uniques": ["something"],
+		"cities": ["Titanopolis","Lumourbo","Ilaroj","Antikva","Aparato","Turbino"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+},
+  {
+  }
+]
