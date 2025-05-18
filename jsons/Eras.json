@@ -3,7 +3,7 @@
     // I also did some testing in the official version, but by far not all
 
     {
-        "name": "Ancient era",
+        "name": "Ancient",//古代
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
         "startingWorkerCount": 0,
@@ -17,7 +17,7 @@
         "iconRGB": [255, 87, 35]
     },
     {
-        "name": "Classical era",
+        "name": "Exploration",//探検の時代
         "researchAgreementCost": 150,
         "startingSettlerCount": 1,
         "startingWorkerCount": 0,
@@ -33,7 +33,7 @@
         "iconRGB": [233, 31, 99]
     },
     {
-        "name": "Medieval era",
+        "name": "Mining",//採掘の時代
         "researchAgreementCost": 250,
         "startingSettlerCount": 2,
         "startingWorkerCount": 1,
@@ -49,7 +49,7 @@
         "iconRGB": [157, 39, 176]
     },
     {
-        "name": "Renaissance era",
+        "name": "Machine",//機械化時代
         "researchAgreementCost": 250,
         "startingSettlerCount": 2,
         "startingWorkerCount": 1,
@@ -65,7 +65,7 @@
         "iconRGB": [104, 58, 183]
     },
     {
-        "name": "Industrial era",
+        "name": "Automation",//自動化時代
         "researchAgreementCost": 300,
         "startingSettlerCount": 3,
         "startingWorkerCount": 2,
@@ -81,7 +81,7 @@
         "iconRGB": [63, 81, 182],
     },
     {
-        "name": "Modern era",
+        "name": "Reorganize",//再構築の時代
         "researchAgreementCost": 350,
         "startingSettlerCount": 3,
         "startingWorkerCount": 2,
@@ -97,7 +97,7 @@
         "iconRGB": [33, 150, 243]
     },
     {
-        "name": "Atomic era",
+        "name": "Integration",//統合の時代
         "researchAgreementCost": 400,
         "startingSettlerCount": 3,
         "startingWorkerCount": 2,
@@ -113,7 +113,7 @@
         "iconRGB": [0, 150, 136],
     },
     {
-        "name": "Information era",
+        "name": "Information",//情報化時代
         "researchAgreementCost": 400,
         "startingSettlerCount": 3,
         "startingWorkerCount": 3,
@@ -132,7 +132,7 @@
     { // Technically, this Era doesn't exist in the original game.
       // But as it is _really_ usefull to have for testing, I'd like to keep it.
       // The stats are just copy-pasted from the information era.
-        "name": "Future era",
+        "name": "Future era",//未来
         "researchAgreementCost": 400,
         "startingSettlerCount": 3,
         "startingWorkerCount": 3,
