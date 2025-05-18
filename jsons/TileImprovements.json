@@ -2,7 +2,7 @@
 
 	{
 		"name": "Farm",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"terrainsCanBeBuiltOn": ["Mud"],
 		"food": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Deep Agriculture",
