@@ -25,7 +25,7 @@
 		"food": 2,
 		"movementCost": 1,
         "RGB": [0, 163, 0],
-        "uniques": ["Occurs at temperature between [-0.4] and [0.1] and humidity between [0.2] and [0.4]",
+        /*"uniques": ["Occurs at temperature between [-0.4] and [0.1] and humidity between [0.2] and [0.4]",
             "Occurs at temperature between [0.1] and [0.2] and humidity between [0.3] and [0.4]",
             "Occurs at temperature between [-0.5] and [0.5] and humidity between [0.6] and [0.8]",
             "Occurs at temperature between [-0.5] and [1] and humidity between [0.9] and [1]",
@@ -42,6 +42,55 @@
             "Considered [Food] when determining start locations <in [Hill] Regions>",
             "Considered [Food] when determining start locations <in [Grassland] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
-    }
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]*/
+    },
+	{
+		"name": "Sand",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+		"RGB": [0, 163, 0],
+	},
+	{
+		"name": "Rock",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+		"RGB": [0, 163, 0],
+	},
+	{
+		"name": "Satanite",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+		"RGB": [0, 163, 0],
+	},
+	{
+		"name": "Tundrite",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+		"RGB": [0, 163, 0],
+	},
+	{
+		"name": "Algass",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+		"RGB": [0, 163, 0],
+	},
+	{
+		"name": "Tundrite",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+		"RGB": [0, 163, 0],
+	},
+	{
+		"name": "Volkite",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+		"RGB": [100, 0, 0],
+	}
 ]
