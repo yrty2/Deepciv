@@ -17,5 +17,11 @@
 		"hurryCostModifier": 40,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
+	},
+	//勝利条件
+	{
+		"name":"Heaven Stair Project",
+		"isNationalWonder":true,
+		"cost":10000
 	}
 ]
