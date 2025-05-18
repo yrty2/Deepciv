@@ -20,7 +20,7 @@
 	},
 	//勝利条件
 	{
-		"name":"Heaven Stair Project",
+		"name":"Heaven Stair Program",
 		"isNationalWonder":true,
 		"cost":10000
 	}
