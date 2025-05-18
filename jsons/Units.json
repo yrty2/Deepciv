@@ -24,7 +24,7 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 25,
-		"obsoleteTech": "Scientific Theory",
+		//"obsoleteTech": "Scientific Theory",
 		//"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		//"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
@@ -35,8 +35,8 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
+		//"obsoleteTech": "Metal Casting",
+		//"upgradesTo": "Swordsman",
 		//"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
